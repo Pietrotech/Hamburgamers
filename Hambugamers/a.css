@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: black;
+}
+
+.linha_invi {
+    position: relative;
+    border: 1px solid #242F8A;
+}
+
+header {
+    background-color: #242F8A;
+    width: 100%;
+    height: 8rem;
+}
+
+.logo_principal {
+    position: relative;
+    margin-top: -0%;
+    margin-left: 1%;
+    float: left;
+}
+
+.links_cabecario {
+    position: relative;
+    display: flex;
+    margin-left: 38%;
+    margin-top: 2.5%;
+}
+
+.links {
+    position: relative;
+    margin-right: 12%;
+}
+
+.links_cardapio {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: white;
+}
+
+.links_cardapio:hover {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: rgb(216, 132, 5);
+    text-decoration: underline;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.747);
+    border-radius: 10em;
+}
+
+.links_contato {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: white;
+}
+
+.links_contato:hover {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: rgb(216, 132, 5);
+    text-decoration: underline;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.747);
+    border-radius: 10em;
+}
+
+
+.links_quemSomos {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: white;
+}
+
+.links_quemSomos:hover {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: rgb(216, 132, 5);
+    text-decoration: underline;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.747);
+    border-radius: 5em;
+}
+
+.links_unidade {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: white;
+}
+
+.links_unidade:hover {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: rgb(216, 132, 5);
+    text-decoration: underline;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.747);
+    border-radius: 10em;
+}
+
+.links_pecaAqui {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: white;
+}
+
+.links_pecaAqui:hover {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    position: relative;
+    color: rgb(216, 132, 5);
+    text-decoration: underline;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.747);
+    border-radius: 10em;
+}
+
+.container__apresentação {
+    position: relative;
+    background-image: url(/img/Hamburguer-pagina_principal.png);
+    background-repeat: none;
+    height: 550px;
+    width: 1900px;
+}
+
+.logo_hamburgamers {
+    position: relative;
+    margin-top: 8%;
+    margin-left: 22.4%;
+}
+
+.texto_propaganda {
+    position: relative;
+    margin-left: 4%;
+    color: white;
+}
+
+
+
+
